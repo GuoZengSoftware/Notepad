@@ -2,5 +2,5 @@
 
 #### 框架
 [Struts2](http://struts.apache.org/)	|
-[Spring](https://spring.io/projects/)	|
+[Spring](http://repo.spring.io/release/org/springframework/spring/)	|
 [Hibernate](https://github.com/hibernate/hibernate-orm/)	|
