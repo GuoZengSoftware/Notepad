@@ -6,6 +6,7 @@
 >[Hexo](fore-end/HexoBlog.md)	|
 >[jQuery](fore-end/jQuery.md)	|
 >[Markdown](fore-end/Markdown.md)	|
+>[HTML/CSS](https://learn.shayhowe.com)	
 
 ##### 前端工具
 >[Markdown](fore-end/tools/Markdown.md)
